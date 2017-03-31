@@ -1,0 +1,158 @@
+{
+  "settings": {
+    "name": "joeymechanicsitetest1",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "versionFirst": "3.11.1",
+    "uniqCompNum": 5,
+    "versionPublish": "3.11.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4",
+          "text": "<p>ASE certified master mechanic, ____ years of experience in automotive maintenance and repair.</p><p><br></p><p>I do brakes, insert more here, insert more here, insert more here, insert more here, insert more here, insert more here,&nbsp;</p><p>Fast turn around time, will have you back on the road quickly.<br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#000000"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "25px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#000000",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Service Name<br><br></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content1-4\">EXPERIENCE<br><br></a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts3-3\" data-toolbar=\"-mbrBtnMove\">CONTACT</a></li> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-1",
+          "_params": {
+            "googleMap": {
+              "address": "35655 Plymouth Rd, Livonia, MI 48150",
+              "placeId": "ChIJ-xQHMMmyJIgRumzAy_Iy5-g",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-3",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>ADDRESS</strong><br>35655 Plymouth Rd, Livonia, MI 48150<br>Hours: &nbsp;By appointment only<br><br>\n<strong>CONTACTS</strong><br>\nEmail: ssjoey391@gmail.com<br>\nPhone: 734-507-2978",
+          "text2": "<ul class=\"mbr-contacts__list\"></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "ssjoey391@gmail.com",
+            "alerts": {
+              "success": "Thank you.  I will get back to you as soon as possible."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\">CONTACT US</a>"
+        }
+      ]
+    }
+  }
+}
